@@ -1,0 +1,25 @@
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\HTTP Client ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\HTTP Client ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\HTTP Client ASP.NET Core.AssemblyInfo.cs
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\HTTP Client ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\HTTP Client ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\bin\Debug\net7.0\appsettings.json
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\bin\Debug\net7.0\HTTP Client ASP.NET Core.exe
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\bin\Debug\net7.0\HTTP Client ASP.NET Core.deps.json
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\bin\Debug\net7.0\HTTP Client ASP.NET Core.runtimeconfig.json
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\bin\Debug\net7.0\HTTP Client ASP.NET Core.dll
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\bin\Debug\net7.0\HTTP Client ASP.NET Core.pdb
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\staticwebassets\msbuild.HTTP Client ASP.NET Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\staticwebassets\msbuild.build.HTTP Client ASP.NET Core.props
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HTTP Client ASP.NET Core.props
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HTTP Client ASP.NET Core.props
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\scopedcss\bundle\HTTP Client ASP.NET Core.styles.css
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\HTTP Client ASP.NET Core.dll
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\refint\HTTP Client ASP.NET Core.dll
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\HTTP Client ASP.NET Core.pdb
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\HTTP Client ASP.NET Core.genruntimeconfig.cache
+C:\Users\vasil\Desktop\C#\HTPP ASP.NET Core\HTTP Client ASP.NET Core\obj\Debug\net7.0\ref\HTTP Client ASP.NET Core.dll

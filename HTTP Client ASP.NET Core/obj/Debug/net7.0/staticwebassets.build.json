@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EUJ9X4cQi/IezgFYIb+3wpKhCbUjJzliyGk77om3YlY=",
+  "Source": "HTTP Client ASP.NET Core",
+  "BasePath": "_content/HTTP Client ASP.NET Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
